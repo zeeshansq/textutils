@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zeeshansq/textutils/static/css/main.e6c13ad2.css",
+    "main.js": "/zeeshansq/textutils/static/js/main.71602dcb.js",
+    "static/js/453.02b6ed6f.chunk.js": "/zeeshansq/textutils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/zeeshansq/textutils/index.html",
+    "main.e6c13ad2.css.map": "/zeeshansq/textutils/static/css/main.e6c13ad2.css.map",
+    "main.71602dcb.js.map": "/zeeshansq/textutils/static/js/main.71602dcb.js.map",
+    "453.02b6ed6f.chunk.js.map": "/zeeshansq/textutils/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71602dcb.js"
+  ]
+}
